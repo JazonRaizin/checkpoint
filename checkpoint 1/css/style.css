@@ -1,0 +1,22 @@
+body{
+  width:850px;
+  height: 1500px;
+  background-color: grey;
+  border: black 2px solid;
+  margin: 100px;
+  /* margin-top:50px; */
+}
+img{
+  width:850px;
+
+}
+.navigation{
+  justify-content: space-between;
+  display: flex;
+  border:2px solid black;
+}
+.product >img {
+  width: 150px;
+  height: 150px;
+  display: block;
+}
